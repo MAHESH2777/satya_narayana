@@ -1,0 +1,77 @@
+.top-head{
+    background-color:#228B22;
+}
+
+.top-head ul li {padding-right:8px;
+    
+    
+}
+
+small{
+    color:white;
+}
+
+.fa {
+    background-color:#228B22;
+}
+
+
+.timings {
+	background-color:#228B22;
+	height:400px;
+	border-radius:20px;
+}
+.a1 h1{
+position: absolute;
+left: 0px;
+top: 400px;
+z-index: 1;
+color: 	#FF0000;
+font-family: Arial Black;
+background-color: #00FFFF;
+}
+
+
+
+
+.b1 h3{
+
+font-family: Brush Script MT;
+}
+.b1 h2{
+	color: green;
+}
+.c1 h3{
+
+font-family: Brush Script MT;
+color: green;
+}
+.d1 ul li{
+	background-color: green;
+	list-style-type: none;
+	display:inline;
+	padding: 20px;
+
+	
+}
+ .b1 ul li a .button{
+ 	border-color:2px solid white; 
+	border-radius: 12px;
+	
+}
+
+}
+.e1{
+	background-color: 	#2F4F4F;
+	color: white;
+
+}
+
+.fone h3{
+font-family: Brush Script MT;
+color: green;
+}
+.footer{
+	background-color: #2F4F4F;
+	color: white;
+}
